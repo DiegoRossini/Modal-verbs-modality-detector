@@ -35,6 +35,9 @@ To test the detector:
 - Diego Rossini
 - Anna Colli
 
+## Upcoming Publication
+An article detailing the methodology, data, and training process of the "Modal Verbs Modality Detector" will be published soon.
+
 ---
 
 **Note:** This project specifically focuses on the French verb "pouvoir", and the resulting model will only work for detecting and classifying the modalities of "pouvoir".
