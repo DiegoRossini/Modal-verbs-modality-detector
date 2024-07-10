@@ -2,6 +2,7 @@
 
 ## Overview
 The "Modal Verbs Modality Detector" project aims to build a machine learning model that detects and classifies the different modalities of the French verbs (this repo contains a test conducted on the French verb 'pouvoir'). The project leverages data augmentation, cross-validation, and other techniques to ensure the model's robustness and accuracy.
+Model avaiable at : https://huggingface.co/DiegoRossini/flaubert-pouvoir-modality-detector
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
