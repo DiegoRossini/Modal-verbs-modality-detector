@@ -37,7 +37,7 @@ To test the detector:
 - Anna Colli
 
 ## Upcoming Publication
-An article detailing the methodology, data, and training process of the "Modal Verbs Modality Detector" will be published soon.
+You can read the article detailing the methodology, data, and training process of the "Modal Verbs Modality Detector" in this repository under the name COLLI_ROSSINI_BATTISTELLI.
 
 ---
 
